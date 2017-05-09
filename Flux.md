@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /CTF/Flux
+permalink: /CTF/Flux/
 title: Securityfest CTF 2016 Rev100 [Flux] write-up
 
 ---
