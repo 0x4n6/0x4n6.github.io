@@ -26,7 +26,7 @@ Nice reference to Game of Thrones, BND.
 
 The app compares the entered code through a TCP connection at the localhost according to the `callCthulhu()` function. To fix this, I opened a netcat listener on port 1337 and piped the code to it. 
 
-![Decryption code](https://raw.githubusercontent.com/0x4n6/0x4n6.github.io/master/images/bnd/evil3.PNG)
+![Decryption code](https://raw.githubusercontent.com/0x4n6/0x4n6.github.io/master/_posts/images/bnd/evil3.PNG)
 
 Entering the code into the decryption window reveals another window for selecting the encrypted file.
 
