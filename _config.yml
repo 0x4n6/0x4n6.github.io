@@ -1,6 +1,6 @@
 title: 0x4n6
 description: > # this means to ignore newlines until "baseurl:"
-  Twitter: <a href="https://twitter.com/0x4n6">@0x4n6</a><img src="https://avatars1.githubusercontent.com/u/6808234?v=3&s=460">
+  Twitter: <a href="https://twitter.com/0x4n6">@0x4n6</a><br><img src="https://avatars1.githubusercontent.com/u/6808234?v=3&s=460">
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 theme: jekyll-theme-minimal
